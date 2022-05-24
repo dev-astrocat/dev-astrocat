@@ -1,6 +1,6 @@
 - 👋🐱 Hi, I’m @dev-astrocat 
 - 👀💻 I’m interested in software development.
-- 🌱🌿 I’m a newbie in this field and hope to figure out whether coding is right for me. 
+- 🌱🌿  I’m a newbie in this field and hope to figure out whether coding is fit to me through doing some projects. 
 - 🏡💜 This place is like my attic with test projects. Always welcome feedbacks and advices. Thanks!
 
 <!---
